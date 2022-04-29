@@ -44,7 +44,9 @@
   
 ##
 
-### :stopwatch:  Time Spent:
+<details>
+  <summary>:stopwatch:  Time Spent:</summary>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple" />
 </div>
