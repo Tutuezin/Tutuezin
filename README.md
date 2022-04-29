@@ -2,7 +2,7 @@
 <h1 align='center'>
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Arthur 👨‍💻
 </h1>
- 
+<img src="https://badges.pufler.dev/visits/tutuezin/tutuezin?logo=google-analytics&labelColor=0D0D0F" />
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/arthur-alcantara-95b7b0224/">
@@ -14,12 +14,15 @@
   
   <a href="https://twitter.com/Tutuezin08">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-  </a>&nbsp;&nbsp; 
+  </a>
 </p>
- 
+  
+
+#### I'm a fullstack student at Driven Education
+
 
 <br />
-
+  
 
 
 ### :zap: GitHub Stats:
