@@ -35,12 +35,13 @@
 ##
 
 ### :rocket: Languages:
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </div>
   
  
 
@@ -48,8 +49,11 @@
 
 ### :stopwatch:  Time Spent:
 <div align="center">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple" />
+
 </div>
+  
+
 
 
 
