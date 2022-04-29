@@ -1,20 +1,25 @@
-### hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/alcantaratutu/">
-  <img align="left" alt="Arthur's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/Tutuezin08">
-  <img align="left" alt="Arthur Alcantara| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arthur-alcantara-95b7b0224/">
-  <img align="left" alt="Arthur's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+<h1 align='center'>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Arthur 👨‍💻
+</h1>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/arthur-alcantara-95b7b0224/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/alcantaratutu/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
+  
+  <a href="https://twitter.com/Tutuezin08">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  </a>&nbsp;&nbsp; 
+</p>
+  
 
 <br />
-<br />
-<br />
 
 
-I'm Arthur
 
 ### :zap: GitHub Stats:
 
@@ -31,7 +36,7 @@ I'm Arthur
 
 
 
-### :zap: Languages:
+### :rocket: Languages:
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,6 +46,10 @@ I'm Arthur
 </div>
 
 ##
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutuezin&theme=midnight-purple" />
+</div>
 
 
 
