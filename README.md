@@ -2,6 +2,7 @@
 <h1 align='center'>
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Arthur 👨‍💻
 </h1>
+ 
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/arthur-alcantara-95b7b0224/">
@@ -15,7 +16,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   </a>&nbsp;&nbsp; 
 </p>
-  
+ 
 
 <br />
 
@@ -29,27 +30,27 @@
 <img height="200px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tutuezin"/> -->
-
-</div>
-
-
-
-
-
-### :rocket: Languages:
-<div style="display: inline_block" align="center"><br>
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </div>
 
 ##
 
+### :rocket: Languages:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  
+ 
+
+##
+
+### :stopwatch:  Time Spent:
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutuezin&theme=midnight-purple" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 
 
 
