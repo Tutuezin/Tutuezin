@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/alcantaratutu/">
   <img align="left" alt="Arthur's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -20,8 +20,8 @@ I'm Arthur
 
 <div align="center">
 <a href="https://github.com/Tutuezin">
-<img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="200px" width="420px" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="200px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tutuezin"/> -->
 
