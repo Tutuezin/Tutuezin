@@ -17,7 +17,7 @@
   </a>
 </p>
   
-#### I'm a junior full stack developer and student of Information Systems at Ufpe and Driven Education. 
+#### I'm a junior full stack developer and student of Information Systems at UFPE and Driven Education. 
 
 <br />
   
