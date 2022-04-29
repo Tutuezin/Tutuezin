@@ -16,21 +16,12 @@
 
 I'm Arthur
 
+### :zap: GitHub Stats:
+<div>
+ <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Tutuezin&show_icons=true&theme=gotham" alt="Arthur Alcantara" />
-
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Arthur's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin" />
-
-</details>
 
 
 
@@ -45,5 +36,7 @@ I'm Arthur
 </div>
 
 ##
+
+![Snake animation](https://github.com/Tutuezin/Tutuezin/blob/output/github-contribution-grid-snake.svg)
 
 
