@@ -22,6 +22,7 @@ I'm Arthur
 <a href="https://github.com/Tutuezin">
 <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&theme=midnight-purple"/>
+  </a>
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tutuezin"/> -->
 
 </div>
@@ -30,7 +31,7 @@ I'm Arthur
 
 
 
-### Languages:
+### :zap: Languages:
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,6 +41,7 @@ I'm Arthur
 </div>
 
 ##
+
 
 
 
