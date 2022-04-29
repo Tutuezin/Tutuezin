@@ -41,6 +41,5 @@ I'm Arthur
 
 ##
 
-![Snake animation](https://github.com/Tutuezin/Tutuezin/blob/output/github-contribution-grid-snake.svg)
 
 
