@@ -1,8 +1,8 @@
 
 <h1 align='center'>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Arthur 👨‍💻
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Arthur 👨‍💻 
+  <img src="https://badges.pufler.dev/visits/tutuezin/tutuezin?logo=google-analytics&labelColor=0D0D0F" />
 </h1>
-<img src="https://badges.pufler.dev/visits/tutuezin/tutuezin?logo=google-analytics&labelColor=0D0D0F" />
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/arthur-alcantara-95b7b0224/">
@@ -17,14 +17,10 @@
   </a>
 </p>
   
-
-#### I'm a fullstack student at Driven Education
-
+#### I'm a junior developer and student of Information Systems at Ufpe,
 
 <br />
   
-
-
 ### :zap: GitHub Stats:
 
 <div align="center">
@@ -46,14 +42,11 @@
   <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </div>
   
- 
-
 ##
 
 ### :stopwatch:  Time Spent:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple" />
-
 </div>
   
 
