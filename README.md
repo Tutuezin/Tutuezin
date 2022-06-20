@@ -44,10 +44,7 @@
   
 ##
 
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=Tutuezin&style=for-the-badge&color=red)
-</div>
+
 
 
 
@@ -55,7 +52,7 @@
   <summary>:stopwatch:  Time Spent:</summary>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,000000,9b111e&title_color=000"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,9b111e,000000&title_color=fff&text_color=red"/>
 </div>
    
   
