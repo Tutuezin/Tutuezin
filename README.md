@@ -26,8 +26,8 @@
 
 <div align="center">
 <a href="https://github.com/Tutuezin">
-<img height="200px" width="420px" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="200px" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
   </a>
 </div>
 
@@ -44,11 +44,18 @@
   
 ##
 
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=Tutuezin&style=for-the-badge&color=red)
+</div>
+
+
+
 <details>
   <summary>:stopwatch:  Time Spent:</summary>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,000000,9b111e&title_color=000"/>
 </div>
    
   
