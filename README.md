@@ -25,10 +25,8 @@
 ### :zap: GitHub Stats:
 
 <div align="center">
-<a href="https://github.com/Tutuezin">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
-  </a>
 </div>
 
 ##
