@@ -6,12 +6,14 @@
 </h1>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/arthur-alcantara-95b7b0224/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ 
+ <a href="https://www.linkedin.com/in/arthur-alcantara-95b7b0224/">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/alcantaratutu/">
+
+<!--  <a href="https://www.instagram.com/alcantaratutu/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
+  </a>&nbsp;&nbsp; -->
   
   <a href="https://twitter.com/Tutuezin08">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
