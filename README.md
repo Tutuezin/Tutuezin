@@ -15,9 +15,9 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp; -->
   
-  <a href="https://twitter.com/Tutuezin08">
+<!--  <a href="https://twitter.com/Tutuezin08">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-  </a>
+  </a> -->
 </p>
   
 #### I'm a junior full stack developer and student of Information Systems at UFPE and Driven Education. 
