@@ -20,18 +20,9 @@
   </a> -->
 </p>
   
-#### I'm a junior full stack developer and student of Information Systems at UFPE and Driven Education. 
+#### I'm a junior FullStack Web developer and student of Information Systems at UFPE who always seeks to expand my knowledge in the area of programming both in front-end and back-end, in order to carry out projects that deliver value and impact people's lives. 
 
 <br />
-  
-### :zap: GitHub Stats:
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
-</div>
-
-##
 
 ### :rocket: Languages:
 <div align="center" style="display: inline_block"><br>
@@ -45,9 +36,21 @@
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="ExpressJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  </div>
+ <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+ <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+ <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
   
+##
+  
+### :zap: GitHub Stats:
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tutuezin&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutuezin&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
+</div>
+
 ##
 
 
