@@ -54,12 +54,13 @@
 ##
 
 
-<details>
+<!--  <details>
   <summary>:stopwatch:  Time Spent:</summary>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tutuzera&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,9b111e,000000&title_color=808080&text_color=fff"/>
-</div>
+</div> -->
+ 
   
 
    
