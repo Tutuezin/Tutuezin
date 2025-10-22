@@ -20,7 +20,7 @@
   </a> -->
 </p>
   
-#### I'm a junior FullStack Web developer and student of Information Systems at UFPE who always seeks to expand my knowledge in the area of programming both in front-end and back-end, in order to carry out projects that deliver value and impact people's lives. 
+#### I'm a FullStack Web developer and student of Information Systems at UFPE who always seeks to expand my knowledge in the area of programming both in front-end and back-end, in order to carry out projects that deliver value and impact people's lives. 
 
 <br />
 
